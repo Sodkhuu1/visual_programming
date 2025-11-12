@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Triangle_finder/1.0.0": {
+        "runtime": {
+          "Triangle_finder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triangle_finder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
