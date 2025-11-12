@@ -14,3 +14,4 @@ C:\Users\jurca\Hicheel\visual_programchlal\Triangle_finder\Triangle_finder\obj\D
 C:\Users\jurca\Hicheel\visual_programchlal\Triangle_finder\Triangle_finder\obj\Debug\net8.0-windows\Triangle_finder.pdb
 C:\Users\jurca\Hicheel\visual_programchlal\Triangle_finder\Triangle_finder\obj\Debug\net8.0-windows\Triangle_finder.genruntimeconfig.cache
 C:\Users\jurca\Hicheel\visual_programchlal\Triangle_finder\Triangle_finder\obj\Debug\net8.0-windows\ref\Triangle_finder.dll
+C:\Users\jurca\Hicheel\visual_programchlal\Triangle_finder\Triangle_finder\obj\Debug\net8.0-windows\Triangle_finder.sourcelink.json

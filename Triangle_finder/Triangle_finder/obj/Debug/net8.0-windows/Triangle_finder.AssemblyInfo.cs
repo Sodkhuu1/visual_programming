@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Triangle_finder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4527932effeedc298b8d1546f25d1c770a845b05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Triangle_finder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Triangle_finder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

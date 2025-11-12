@@ -17,8 +17,8 @@ namespace Triangle_finder
 
         public Form1()
         {
-            InitializeComponent(); // Form1.Designer.cs дотор бий
-            SetupUi();             // Доорх бидний UI
+            InitializeComponent(); 
+            SetupUi();             
         }
 
         private void SetupUi()
@@ -29,7 +29,7 @@ namespace Triangle_finder
 
             var lblPoints = new Label
             {
-                Text = "Number of Points (N):",
+                Text = "Цэгийн тоо (N):",
                 Location = new Point(20, 20),
                 Size = new Size(150, 20)
             };
@@ -43,7 +43,7 @@ namespace Triangle_finder
 
             btnGenerate = new Button
             {
-                Text = "Generate & Find Largest",
+                Text = "Үүсгэх",
                 Location = new Point(290, 16),
                 Size = new Size(200, 26)
             };
@@ -65,7 +65,7 @@ namespace Triangle_finder
         {
             if (!int.TryParse(txtPoints.Text, out int n) || n < 3)
             {
-                MessageBox.Show("Please enter a valid number (at least 3).", "Error");
+                MessageBox.Show("3-аас дээш тоо оруул.", "Алдаа");
                 return;
             }
 
@@ -147,16 +147,16 @@ namespace Triangle_finder
             // мэдээлэл
             if (largestTriangle != null)
             {
-                string info = $"Points: {points.Count}\n" +
-                              $"Triangles: {triangles.Count}\n" +
-                              $"Largest Area: {largestTriangle.Area:F2}";
+                string info = $"Цэг: {points.Count}\n" +
+                              $"Гурвалжин: {triangles.Count}\n" +
+                              $"Хамгийн том гурвалжны талбай: {largestTriangle.Area:F2}";
                 g.DrawString(info, new Font("Arial", 10, FontStyle.Bold),
                              Brushes.DarkRed, new PointF(10, 10));
             }
         }
     }
 
-    // Дуртай бол тусдаа Triangle.cs болгож болно
+    
     public class Triangle
     {
         public PointF P1 { get; }
@@ -176,7 +176,7 @@ namespace Triangle_finder
             double b = Distance(P2, P3);
             double c = Distance(P3, P1);
             double s = (a + b + c) / 2;
-            Area = Math.Sqrt(Math.Max(0, s * (s - a) * (s - b) * (s - c))); // numeric guard
+            Area = Math.Sqrt(Math.Max(0, s * (s - a) * (s - b) * (s - c))); 
         }
 
         private static double Distance(PointF p1, PointF p2)
