@@ -1,0 +1,8 @@
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\bin\Debug\lab01.exe.config
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\bin\Debug\lab01.exe
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\bin\Debug\lab01.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\obj\Debug\lab01.csproj.AssemblyReference.cache
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\obj\Debug\lab01.exe
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\obj\Debug\lab01.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\lab01\lab01\obj\Debug\lab01.exe.config
