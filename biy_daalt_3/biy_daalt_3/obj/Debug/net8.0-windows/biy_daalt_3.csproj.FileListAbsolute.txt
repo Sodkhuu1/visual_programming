@@ -1,0 +1,17 @@
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.Form1.resources
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.csproj.GenerateResource.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.AssemblyInfoInputs.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.AssemblyInfo.cs
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.csproj.CoreCompileInputs.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.sourcelink.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\bin\Debug\net8.0-windows\biy_daalt_3.exe
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\bin\Debug\net8.0-windows\biy_daalt_3.deps.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\bin\Debug\net8.0-windows\biy_daalt_3.runtimeconfig.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\bin\Debug\net8.0-windows\biy_daalt_3.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\bin\Debug\net8.0-windows\biy_daalt_3.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\refint\biy_daalt_3.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\biy_daalt_3.genruntimeconfig.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt_3\biy_daalt_3\obj\Debug\net8.0-windows\ref\biy_daalt_3.dll
