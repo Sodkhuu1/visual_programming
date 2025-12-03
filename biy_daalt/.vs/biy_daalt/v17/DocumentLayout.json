@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jurca\\Hicheel\\visual_programchlal\\biy_daalt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B6D73A-131C-4B6C-8142-7892391B83AC}|biy_daalt\\biy_daalt.csproj|c:\\users\\jurca\\hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58B6D73A-131C-4B6C-8142-7892391B83AC}|biy_daalt\\biy_daalt.csproj|solutionrelative:biy_daalt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B6D73A-131C-4B6C-8142-7892391B83AC}|biy_daalt\\biy_daalt.csproj|c:\\users\\jurca\\hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B6D73A-131C-4B6C-8142-7892391B83AC}|biy_daalt\\biy_daalt.csproj|solutionrelative:biy_daalt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jurca\\Hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\Form1.cs",
+              "RelativeDocumentMoniker": "biy_daalt\\Form1.cs",
+              "ToolTip": "C:\\Users\\jurca\\Hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\Form1.cs",
+              "RelativeToolTip": "biy_daalt\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:29:46.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurca\\Hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\Form1.cs",
+              "RelativeDocumentMoniker": "biy_daalt\\Form1.cs",
+              "ToolTip": "C:\\Users\\jurca\\Hicheel\\visual_programchlal\\biy_daalt\\biy_daalt\\Form1.cs [Design]",
+              "RelativeToolTip": "biy_daalt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:10:49.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

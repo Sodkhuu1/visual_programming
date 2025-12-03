@@ -1,0 +1,17 @@
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\bin\Debug\net8.0-windows\biy_daalt.exe
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\bin\Debug\net8.0-windows\biy_daalt.deps.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\bin\Debug\net8.0-windows\biy_daalt.runtimeconfig.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\bin\Debug\net8.0-windows\biy_daalt.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\bin\Debug\net8.0-windows\biy_daalt.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.Form1.resources
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.csproj.GenerateResource.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.AssemblyInfoInputs.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.AssemblyInfo.cs
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.csproj.CoreCompileInputs.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.sourcelink.json
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\refint\biy_daalt.dll
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.pdb
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\biy_daalt.genruntimeconfig.cache
+C:\Users\jurca\Hicheel\visual_programchlal\biy_daalt\biy_daalt\obj\Debug\net8.0-windows\ref\biy_daalt.dll
